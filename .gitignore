@@ -1,0 +1,23 @@
+# Diretórios e arquivos do ambiente virtual
+.venv/
+env/
+venv/
+
+# Arquivos de configuração do editor
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Arquivos de log
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de banco de dados SQLite
+*.sqlite3
+
+# Arquivos de ambiente
+.env
